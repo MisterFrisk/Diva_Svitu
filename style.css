@@ -26,6 +26,7 @@ nav{
     margin-top: 2%;
     display: flex ;
     justify-content: space-between;
+    padding: 2%;
 }
 
 nav a{
@@ -61,8 +62,8 @@ header img{
 }
 p img{
     width: 20%;
+    height: 20%;
 }
-
 main p{
     font-size: 20px;
     margin-left: 6%;
