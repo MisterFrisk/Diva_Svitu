@@ -50,6 +50,19 @@ h1,h2{
     text-align: center;
 }
 
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+
+
+}
+nav a{
+    text-decoration: none;
+    color: #282955;
+    padding: 1%;
+    border: 3px double #282955;
+    border-radius: 30%; 
 img{
     width: 50%;
     height: 50%;
